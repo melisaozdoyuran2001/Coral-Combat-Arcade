@@ -26,11 +26,15 @@ Start and Play Again buttons to control game states.
 ## How to Play
 Controls
 Left Arrow: Move the submarine left.
+
 Right Arrow: Move the submarine right.
+
 Fire Button (e.g., Spacebar): Shoot orbs.
+
 ## Scoring
 Eliminating a Shark or Jellyfish: +1 point
 
 ## Win/Lose Conditions
 Win: Survive for 60 seconds.
+
 Lose: If any of the sea creatures get past you.
