@@ -3,10 +3,10 @@
 ### Description
 Coral Combat is an underwater-themed fixed shooter game. Navigate a submarine and protect your realm from invading sea creatures like sharks and jellyfish. The objective is to survive for 60 seconds to win the game.
 
-<img width="400" alt="coral1" src="https://github.com/melisaozdoyuran2001/Coral-Combat-Arcade/assets/123209674/bbccb497-eeb3-45f3-8f82-ca97e939759d">
+<img width=350" alt="coral1" src="https://github.com/melisaozdoyuran2001/Coral-Combat-Arcade/assets/123209674/bbccb497-eeb3-45f3-8f82-ca97e939759d">
 
-<img width="400" alt="coral2" src="https://github.com/melisaozdoyuran2001/Coral-Combat-Arcade/assets/123209674/6cb479f1-29ad-4f46-82a8-08f6ea10a2b5">
-<img width="400" alt="coral3" src="https://github.com/melisaozdoyuran2001/Coral-Combat-Arcade/assets/123209674/457828fc-c5d1-4d14-8770-4885aa9da07b">
+<img width="350" alt="coral2" src="https://github.com/melisaozdoyuran2001/Coral-Combat-Arcade/assets/123209674/6cb479f1-29ad-4f46-82a8-08f6ea10a2b5">
+<img width="350" alt="coral3" src="https://github.com/melisaozdoyuran2001/Coral-Combat-Arcade/assets/123209674/457828fc-c5d1-4d14-8770-4885aa9da07b">
 
 
 
