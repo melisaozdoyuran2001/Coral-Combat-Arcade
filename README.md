@@ -10,14 +10,17 @@ Coral Combat is an underwater-themed fixed shooter game. Navigate a submarine an
 <img width="350" alt="coral3" src="https://github.com/melisaozdoyuran2001/Coral-Combat-Arcade/assets/123209674/457828fc-c5d1-4d14-8770-4885aa9da07b">
 
 
-
-
 ## Features
 One-dimensional movement of the player-controlled submarine.
+
 Constant downward movement of enemies (sharks and jellyfish).
+
 Firing mechanism to eliminate enemies.
+
 Timer counting down from 60 seconds to 0.
+
 Scoring based on the number of enemies eliminated.
+
 Start and Play Again buttons to control game states.
 
 ## How to Play
